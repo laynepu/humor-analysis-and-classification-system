@@ -1,1 +1,1 @@
-# humor-analysis-and-classification-system
+Independent Study at National Taiwan Normal University (NTNU)
